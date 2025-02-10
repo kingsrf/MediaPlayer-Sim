@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MediaPlayerTest
+comment1.params=
+comment1.target=void\ testAudioPlayer()
+comment2.params=
+comment2.target=void\ testVideoPlayer()
+comment3.params=
+comment3.target=void\ testStreamingPlayer()
+comment4.params=
+comment4.target=void\ testAudioPlayerEdge()
+comment5.params=
+comment5.target=void\ testVideoPlayerEdge()
+comment6.params=
+comment6.target=void\ testStreamingPlayerEdge()
+numComments=7
